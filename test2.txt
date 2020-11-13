@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 60B5-3E62
+
+ Directory of C:\Users\govar\Desktop\My Project
+
+2020-11-12  10:57 PM    <DIR>          .
+2020-11-12  10:57 PM    <DIR>          ..
+2020-11-12  10:46 PM               401 index.html
+2020-11-12  10:09 PM               350 test1.txt
+2020-11-12  10:57 PM                 0 test2.txt
+               3 File(s)            751 bytes
+               2 Dir(s)  323,623,100,416 bytes free
